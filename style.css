@@ -1,0 +1,56 @@
+h1{
+	text-align: center;
+}
+body{
+  background: white
+}
+h1{
+  font-family:impact, san-serif; 
+  text-align: center; 
+  color: white; 
+  background: rgb(100,100,100);
+}
+h2{
+  font-family:impact, san-serif; 
+  text-align: left; 
+  color: gray;
+  padding-left: 20px; 
+}
+
+.SPORTS{
+  color:red;
+
+}
+.SPORTS:hover{ 
+  font-size:50px;
+  color:rgb(130,140,50);
+  opacity:.5;
+}
+
+.MUSIC{
+  color: blue;
+}
+
+.MUSIC:hover{ 
+  font-size:50px;
+  color:rgb(130,140,50);
+  opacity:.5;
+}
+
+.FOOD:hover{ 
+  font-size:50px;
+  color:rgb(130,140,50);
+  opacity:.5;
+}
+
+.FOOD{
+  color:orange;
+}
+
+li{
+  width: 90%;
+  margin-left: 10%
+}
+
+ol{boarder: solid black: 5px;
+}
